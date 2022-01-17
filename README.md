@@ -34,6 +34,6 @@ There are several ways to run a Spring Boot application on your local machine. O
 mvn spring-boot:run
 ```
 
-### The view in the Postman: 
+### Example API URL in the Postman: 
 [http://localhost:8097/todo/task/all](http://localhost:8097/todo/task/all)
 
